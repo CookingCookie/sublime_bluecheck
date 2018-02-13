@@ -1,4 +1,0 @@
-[
-	{"keys": ["f1"], "command": "compile_with_bluespec"},
-	{"keys": ["f2"], "command": "build_with_bluespec"}
-]
